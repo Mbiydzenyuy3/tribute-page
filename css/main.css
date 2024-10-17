@@ -30,6 +30,13 @@ article {
 .program {
   padding: 1rem;
   margin: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid red;
+
+  /* width: 40vw; */
 }
 
 /* headings and pagraph styling */
@@ -113,4 +120,10 @@ button {
   border: none;
   color: black;
   border: 1px solid black;
+}
+ul {
+  border: 1px solid red;
+  width: 38vw;
+  padding: 1rem;
+  line-height: 24px;
 }
