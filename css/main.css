@@ -113,18 +113,17 @@ aside {
   text-align: center;
 }
 /* button styling */
-button {
+/* button {
   width: 124px;
   height: 40px;
   background-color: transparent;
   border: none;
   color: black;
-  border: 1px solid black;
-}
+  border: none;
+  
+} */
 ul {
-  border: 1px solid red;
   width: 38vw;
   padding: 1rem;
   line-height: 24px;
 }
- 
