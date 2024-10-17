@@ -113,15 +113,14 @@ aside {
   text-align: center;
 }
 /* button styling */
-/* button {
+button {
   width: 124px;
   height: 40px;
   background-color: transparent;
   border: none;
   color: black;
   border: none;
-  
-} */
+}
 ul {
   width: 38vw;
   padding: 1rem;
