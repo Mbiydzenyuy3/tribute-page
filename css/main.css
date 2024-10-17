@@ -109,6 +109,8 @@ aside {
 button {
   width: 124px;
   height: 40px;
-  border-color: blue;
-  padding: 1rem;
+  background-color: transparent;
+  border: none;
+  color: black;
+  border: 1px solid black;
 }
